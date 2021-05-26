@@ -12,7 +12,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
 		4. [Built with](#built-with)
 		5. [What I learned](#what-i-learned)
 	2. [Author](#author)
-	3. [Acknowledgments](#acknowledgments)
 
 
 ### The challenge
@@ -48,14 +47,8 @@ this is my first time creating a component using styled components, kinda good b
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+- Website - [creeve.me](https://creeve.me)
+- Frontend Mentor - [@zynth17](https://www.frontendmentor.io/profile/zynth17)
+- Twitter - [@hi_reeve](https://twitter.com/hi_reeve)
+- Instagram - [@hi_reeve](https://www.instagram.com/hi_reeve/)
+- Github - [zynth17](https://github.com/zynth17)

@@ -1,3 +1,4 @@
+import React from "react";
 import Card from "./components/Card";
 import IconSedan from "@/assets/images/icon-sedans.svg";
 import IconSuvs from "@/assets/images/icon-suvs.svg";

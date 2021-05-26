@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/3-column-preview-with-reactjs-and-styled-component-z7o91UMPj)
 - Live Site URL: [Live Site](https://zynth17.github.io/3-column-preview-card-component-main/)
 
 

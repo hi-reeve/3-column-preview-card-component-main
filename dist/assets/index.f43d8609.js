@@ -38,12 +38,12 @@ import{q as e,R as r,a as t}from"./vendor.b4f0a2ce.js";const o=e.button`
             border-bottom-left-radius: 5px;
         }
     }
-`,a=e.div`
+`,n=e.div`
     min-height: 60vh;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
-`,n=e.h1`
+`,a=e.h1`
     font-family: "Big Shoulders Display", cursive;
     font-weight: bold;
     text-transform: uppercase;
@@ -55,11 +55,11 @@ import{q as e,R as r,a as t}from"./vendor.b4f0a2ce.js";const o=e.button`
     line-height: 1.5rem;
     color: var(--very-light-gray);
     margin-top: auto;
-`,d=e.img`
+`,c=e.img`
     width: 52px;
-`,s=e(o)`
+`,d=e(o)`
     margin-top: auto;
-`,c=({title:e,description:t,icon:o,color:c})=>r.createElement(r.Fragment,null,r.createElement(i,{color:c},r.createElement(a,null,r.createElement(d,{src:o}),r.createElement(n,null,e),r.createElement(l,null,t),r.createElement(s,{color:c},"Learn More"))));const u=e.div`
+`,s=({title:e,description:t,icon:o,color:s})=>r.createElement(r.Fragment,null,r.createElement(i,{color:s},r.createElement(n,null,r.createElement(c,{src:o}),r.createElement(a,null,e),r.createElement(l,null,t),r.createElement(d,{color:s},"Learn More"))));const m=e.div`
     padding: 2rem;
     display: flex;
     align-items: center;
@@ -70,4 +70,4 @@ import{q as e,R as r,a as t}from"./vendor.b4f0a2ce.js";const o=e.button`
     @media screen and (max-width: 525px) {
         flex-direction: column;
     }
-`;function m(){const e=[{id:1,title:"sedans",description:" Choose a sedan for its affordability and excellent fuel economy. Ideal for cruising in the city or on your next road trip.",icon:"/assets/icon-sedans.1b33cfa6.svg",color:"--bright-orange"},{id:2,title:"suvs",description:"Take an SUV for its spacious interior, power, and versatility. Perfect for your next family vacation and off-road adventures.",icon:"/assets/icon-suvs.56b747a1.svg",color:"--dark-cyan"},{id:3,title:"luxury",description:"Cruise in the best car brands without the bloated prices. Enjoy the enhanced comfort of a luxury rental and arrive in style.",icon:"/assets/icon-luxury.b6728a87.svg",color:"--very-dark-cyan"}].map((e=>r.createElement(c,{title:e.title,key:e.id,description:e.description,icon:e.icon,color:e.color})));return r.createElement("div",{className:"App"},r.createElement(u,null,e))}t.render(r.createElement(r.StrictMode,null,r.createElement(m,null)),document.getElementById("root"));
+`;function u(){const e=[{id:1,title:"sedans",description:" Choose a sedan for its affordability and excellent fuel economy. Ideal for cruising in the city or on your next road trip.",icon:"/3-column-preview-card-component-main/assets/icon-sedans.1b33cfa6.svg",color:"--bright-orange"},{id:2,title:"suvs",description:"Take an SUV for its spacious interior, power, and versatility. Perfect for your next family vacation and off-road adventures.",icon:"/3-column-preview-card-component-main/assets/icon-suvs.56b747a1.svg",color:"--dark-cyan"},{id:3,title:"luxury",description:"Cruise in the best car brands without the bloated prices. Enjoy the enhanced comfort of a luxury rental and arrive in style.",icon:"/3-column-preview-card-component-main/assets/icon-luxury.b6728a87.svg",color:"--very-dark-cyan"}].map((e=>r.createElement(s,{title:e.title,key:e.id,description:e.description,icon:e.icon,color:e.color})));return r.createElement("div",{className:"App"},r.createElement(m,null,e))}t.render(r.createElement(r.StrictMode,null,r.createElement(u,null)),document.getElementById("root"));

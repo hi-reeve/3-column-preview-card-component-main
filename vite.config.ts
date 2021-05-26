@@ -4,7 +4,7 @@ import reactRefresh from "@vitejs/plugin-react-refresh";
 import { resolve } from "path";
 // https://vitejs.dev/config/
 export default defineConfig({
-	base : '3-column-preview-card-component-main',
+	base : '/3-column-preview-card-component-main',
     plugins: [reactRefresh()],
     resolve: {
         alias: {
